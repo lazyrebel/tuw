@@ -1,0 +1,124 @@
+body {
+  background-color: #efd9d1;
+  text-align: center;
+  color: #393b44;
+}
+
+h1 {
+  color: #393b44;
+  font-family: 'Arizonia', cursive;
+  font-size: 5.62rem;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+h3 {
+  color: #393b44;
+  font-family: 'Arizonia', cursive;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #D8AC9C 10px;
+  border-bottom: none;
+  width: 10%;
+}
+
+.headerc {
+  background-color: #999b84;
+  width: 100%;
+  height: 400px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.me {
+  height: 150px;
+  width: 150px;
+}
+
+.me2 {
+  height: 150px;
+  width: 150px;
+}
+
+.softdev {
+  height: 150px;
+  width: 150px;
+}
+
+.midc {
+  margin: 100px;
+}
+
+.bottomc {
+  background-color: #999b84;
+  padding: 20px;
+}
+
+a{
+  color: #efd9d1;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #d8ac9c;
+}
+
+.tc1 {
+  position: absolute;
+  left: 200px;
+  top: 50px;
+}
+
+.tc2 {
+  position: absolute;
+  right: 200px;
+  top: 80px;
+}
+
+.btn {
+   -webkit-border-radius: 31px;
+   -moz-border-radius: 31px;
+   border-radius: 31px;
+   color: #D8AC9C;
+   font-family: Arial;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #999B84;
+   -webkit-box-shadow: 1px 1px 20px 0 #999B84;
+   -moz-box-shadow: 1px 1px 20px 0 #999B84;
+   box-shadow: 1px 1px 20px 0 #999B84;
+   text-shadow: 1px 1px 20px #999B84;
+   border: solid #D8AC9C 6px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #F4EEED;
+   border: solid #F4EEED 1px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+
+.cr{
+  font-size: 3px;
+  padding: 20px 1px;
+}
